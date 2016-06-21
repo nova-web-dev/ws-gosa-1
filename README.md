@@ -1,9 +1,9 @@
 # Staticifier
 **THE** barebones static website template.
 
-------
-
 Staticifier is a basic template for static websites. No generation, no scss or templating engine; just good ol' bootstrap.
+
+------
 
 
 ###Setting up your Dev Environment
