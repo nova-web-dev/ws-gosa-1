@@ -6,11 +6,11 @@ Staticifier is a basic template for static websites. No generation, no scss or t
 ------
 
 
-###Setting up your Dev Environment
-> You'll need to have node.js and bower installed to run this project. If you have not set up your development environment and installed node.js, please follow this guide: 
+###Before you start (Important!)
+You'll need to have **node.js** and **bower** installed to run this project. If you have not set up your development environment and installed node.js, please follow this guide: 
 
 
-Please click the appropriate link for your operating system. After you finish the steps, return to this page.
+**Please click the appropriate link** for your operating system. After you finish the steps, return to this page.
 
  - [Windows](https://github.com/carl-eis/Ultimate.Setup/wiki/Windows%20Setup)
  - [Mac/Linux](https://github.com/carl-eis/Ultimate.Setup/wiki/Node.js%20-%20Linux)
