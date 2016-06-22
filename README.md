@@ -12,8 +12,8 @@ Staticifier is a basic template for static websites. No generation, no scss or t
 
 Please click the appropriate link for your operating system. After you finish the steps, return to this page.
 
- - [Windows](https://github.com/carl-eis/linux.setup/wiki/8.-Windows-Setup)
- - [Mac/Linux](https://github.com/carl-eis/linux.setup/wiki/2.-Installing-Node)
+ - [Windows](https://github.com/carl-eis/Ultimate.Setup/wiki/Windows%20Setup)
+ - [Mac/Linux](https://github.com/carl-eis/Ultimate.Setup/wiki/Node.js%20-%20Linux)
 
 ###Using this project
 Step 1: Clone this project
