@@ -2,7 +2,7 @@
 	Your Website Name
 
 	List your colour variables here to remember them more easily.
-	
+
 	Author: Your Name
 	Version: 1.0.0
 \*==============================================================================*/
@@ -11,6 +11,9 @@ h1 h2 h3 h4 h5 h6{
 }
 p{
 	/* Add your default font here */
+}
+body{
+	margin-top: 20px;
 }
 /*==============================================================================*\
 	Create your custom classes here
