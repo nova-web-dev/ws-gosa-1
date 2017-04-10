@@ -6,7 +6,7 @@ Staticifier is a basic template for static websites. No generation, no scss or t
 ------
 
 
-###Before you start (Important!)
+### Before you start (Important!)
 You'll need to have **node.js** and **bower** installed to run this project. If you have not set up your development environment and installed node.js, please follow this guide: 
 
 
@@ -15,7 +15,7 @@ You'll need to have **node.js** and **bower** installed to run this project. If 
  - [Windows](https://github.com/carl-eis/Ultimate.Setup/wiki/Windows%20Setup)
  - [Mac/Linux](https://github.com/carl-eis/Ultimate.Setup/wiki/Node.js%20-%20Linux)
 
-###Using this project
+### Using this project
 Step 1: Clone this project
 
 	$ git clone https://github.com/carl-eis/staticifier.git your-project-name
