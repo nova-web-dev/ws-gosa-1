@@ -23,6 +23,8 @@
   "dependencies": {
     "font-awesome": "fontawesome#^4.6.3",
     "bootstrap": "^3.3.6",
-    "animate.css": "^3.5.2"
+    "animate.css": "^3.5.2",
+    "materialize": "^0.98.2",
+    "bootstrap-material-design": "^4.0.2"
   }
 }

@@ -13,8 +13,11 @@ p{
 	/* Add your default font here */
 }
 body{
-	margin-top: 64px;
+	margin-top: 58px !important;
 }
 /*==============================================================================*\
 	Create your custom classes here
 \*==============================================================================*/
+.cs-nav-header{
+	line-height: 40px !important;
+}
